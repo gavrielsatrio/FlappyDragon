@@ -1,2 +1,2 @@
-# Flappy-Dragon
+# Flappy Dragon
 This is dragon
