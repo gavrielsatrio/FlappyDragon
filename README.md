@@ -3,5 +3,5 @@ Avoid the arrows and survive to get high score
 
 How to play :
 - Download or clone this repository
-- Run GameBuatan 2.exe
+- Run GameBuatan.exe
 - Enjoy the game
